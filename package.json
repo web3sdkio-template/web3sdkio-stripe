@@ -11,8 +11,8 @@
   "dependencies": {
     "@stripe/stripe-js": "^1.36.0",
     "@web3sdkio/auth": "^1.0.8",
-    "@web3sdkio/react": "^2.9.7",
-    "@web3sdkio/sdk": "^2.4.9",
+    "@web3sdkio/react": "^2.0.1",
+    "@web3sdkio/sdk": "^1.0.12",
     "cookie": "^0.5.0",
     "ethers": "^5.7.0",
     "next": "^12.3.0",

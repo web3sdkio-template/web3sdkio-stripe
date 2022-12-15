@@ -1,6 +1,6 @@
 ## Web3sdkio Stripe
 
-This project demonstrates an example flow for setting up subscription based payments for web3 apps using web3sdkio [wallet authentication](https://portal.web3sdk.io/advanced-features/wallet-authentication) and [Stripe](https://stripe.com). 
+This project demonstrates an example flow for setting up subscription based payments for web3 apps using web3sdkio [wallet authentication](https://docs.web3sdk.io/advanced-features/wallet-authentication) and [Stripe](https://stripe.com). 
 
 It enables traditional SaaS business models for web3 apps where products can offer protected services that require subscriptions to access. 
 
@@ -12,7 +12,7 @@ This is an example of the power that the wallet authentication flow offers for w
 
 ## Runnning the Example
 
-In order to run this example project, we'll need to setup a few pieces. First, we'll need to store environment variables for the admin wallet to use for authentication on the backend (to learn more about how wallet authentication works, you can checkout the [Wallet Authentication Documentation](https://portal.web3sdk.io/advanced-features/wallet-authentication)). Additionally, we'll need to setup a Stripe account and configure a product on the Stripe dashboard to use for our subscription.
+In order to run this example project, we'll need to setup a few pieces. First, we'll need to store environment variables for the admin wallet to use for authentication on the backend (to learn more about how wallet authentication works, you can checkout the [Wallet Authentication Documentation](https://docs.web3sdk.io/advanced-features/wallet-authentication)). Additionally, we'll need to setup a Stripe account and configure a product on the Stripe dashboard to use for our subscription.
 
 ### Setup Web3sdkio
 
@@ -89,7 +89,7 @@ As previously mentioned, this project uses `wallet authentication` along with St
 
 To learn more about web3sdkio and Next.js, take a look at the following resources:
 
-- [web3sdkio Wallet Authentication](https://portal.web3sdk.io/auth) - learn about our wallet authentication flow
+- [web3sdkio Wallet Authentication](https://docs.web3sdk.io/auth) - learn about our wallet authentication flow
 - [web3sdkio React Documentation](https://docs.web3sdk.io/react) - learn about our React SDK.
 - [web3sdkio TypeScript Documentation](https://docs.web3sdk.io/typescript) - learn about our JavaScript/TypeScript SDK.
 - [web3sdkio Portal](https://docs.web3sdk.io) - check our guides and development resources.
@@ -99,4 +99,4 @@ You can check out [the web3sdkio GitHub organization](https://github.com/web3sdk
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
